@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`038e74d`](https://github.com/stdlib-js/stdlib/commit/038e74da7817997d6de072cf614f32e930136fa9) - **docs:** revert back to using 'constructor' instead of 'function' _(by Philipp Burckhardt)_
 -   [`59455b6`](https://github.com/stdlib-js/stdlib/commit/59455b661612d4c4ed47c25d3077884b985742fc) - **docs:** add `toString`, `toJSON`, and `toDataView` declarations to Z-test results packages _(by Philipp Burckhardt)_
 -   [`0a437aa`](https://github.com/stdlib-js/stdlib/commit/0a437aad60abb626a22840c9bad66414b627749f) - **chore:** remove usage of unsupported option _(by Philipp Burckhardt)_
 -   [`4e2fe4f`](https://github.com/stdlib-js/stdlib/commit/4e2fe4f7226b7f96aab5879f57a4536460c8f847) - **fix:** make properties required in interface [(#7643)](https://github.com/stdlib-js/stdlib/pull/7643) _(by Gururaj Gurram)_
